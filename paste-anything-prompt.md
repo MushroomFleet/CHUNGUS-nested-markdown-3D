@@ -1,0 +1,1 @@
+using a spatial clamp of 0.0 - 200.0 for all spatial dimensions, read and cross reference the attached document, then generate a new separate artifact NM3 formatted .xml file using CHUNGUS
