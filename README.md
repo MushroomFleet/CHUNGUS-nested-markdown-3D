@@ -447,29 +447,38 @@ Ideas for enhancement:
 
 - **NM3 Specification v1.0**: Nested Markdown 3D standard for spatial knowledge organization
   - _Full specification_: [`system-prompt/artifacts/NM3-specification.md`](system-prompt/artifacts/NM3-specification.md)
-  - _Release Date_: January 15, 2025
-  - _Status_: Stable
+
+### Academic Citation
+
+If you use this codebase in your research or project, please cite:
+
+```bibtex
+@software{chungus_nested_markdown_3D,
+  title = {CHUNGUS nested markdown 3D: description},
+  author = {[Drift Johnson]},
+  year = {2025},
+  url = {https://github.com/MushroomFleet/CHUNGUS-nested-markdown-3D},
+  version = {1.0.0}
+}
+```
+
+### Donate:
+
+[![Ko-Fi](https://cdn.ko-fi.com/cdn/kofi3.png?v=3)](https://ko-fi.com/driftjohnson)
 
 ### Related Work
 
-_This section will be expanded with academic citations, related research, and acknowledgments._
+- Agentic System Prompt (MD to NM3) - [CHUNGUS-3D](https://github.com/MushroomFleet/CHUNGUS-nested-markdown-3D), tested with Sonnet and Haiku 4.5
+- NM3 Nested Markdown 3D xml standard - [NM3 Specification](https://github.com/MushroomFleet/NM3-nested-markdown-3d).
+- Careless Canvas 3D (NM3/NML) - Main Editing Suite for NM3 formatted xml
+- 3D Perplexity Search Graph (NM3) - Coming Soon.
 
-**Placeholder for**:
-- Knowledge graph visualization research
-- Spatial cognition and learning studies
-- 3D information visualization papers
-- Related tools and technologies
-- Inspirational prior work
-
-### Acknowledgments
-
-_Future acknowledgments of contributors, testers, and community members who have helped improve CHUNGUS-3D._
 
 ---
 
 ## 📄 License
 
-_License information to be determined._
+MIT
 
 ---
 
@@ -491,3 +500,4 @@ _Spatial organization • Semantic analysis • Immersive exploration_
 Made with 🧠 for better understanding
 
 </div>
+
